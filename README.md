@@ -6,6 +6,6 @@
 
 ## Examples of Links
 
-A link to my [data](https://github.com/umd-mith/datastory/raw/master/data/BMCtweets.csv)
+A link to my [data](https://github.com/datastory/data/BMCtweets.csv)
 
 

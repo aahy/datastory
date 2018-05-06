@@ -1,4 +1,4 @@
-# Title
+# Bryn Mawr College and the M. Carey Thomas Controversy
 
 ## Text
 

@@ -12,4 +12,4 @@ A visualization of the data set linked below would reveal that more seem to be i
 
 ### Relevant Links
 
-A link to my [data set 1](https://github.com/aahy/datastory/raw/master/data/BMCtweets.csv)
+A link to my [data set](https://github.com/aahy/datastory/raw/master/data/BMCtweets.csv)
